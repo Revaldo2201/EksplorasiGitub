@@ -1,0 +1,6 @@
+Hasil Eksplorasi GitHub
+
+Saya telah melakukan eksplorasi repository GitHub,
+git clone, git status, git add, git commit, dan git push.
+
+Saya juga telah mempelajari penggunaan Pull Request pada GitHub.
